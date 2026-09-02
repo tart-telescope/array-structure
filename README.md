@@ -76,7 +76,6 @@ Build and installation guides on YouTube for the TART array structure:
 | [Single Sheet Radio Telescope Antenna Array Construction](https://www.youtube.com/watch?v=15vWiKbK2I0) | Elec Research | How to make a simple single-sheet TART antenna array with easily available tools and materials |
 | [Installing a Spiral TART Using Wooden Posts](https://www.youtube.com/watch?v=bsTKXGvduMo) | TART Radio Telescope | On-site installation: locating the posts that support each arm and making the final arm assembly — relevant to the `brackets/` and `supports/` designs |
 | [Single Sheet TART Antenna Array Optimization](https://www.youtube.com/watch?v=b-6-I6850Wc) | Elec Research | Evolution of the antenna layout constrained to a single sheet of plywood — background on the `cam-files/` design |
-| [The Transient Array Radio Telescope (TART) – Stanley Kuja](https://www.youtube.com/watch?v=hKns6zeaH-c) | SARAO Web | Overview talk introducing the TART telescope |
 
 More videos, including the "How to Build a Cheap Radio Telescope" series, are on the official [TART Radio Telescope YouTube channel](https://www.youtube.com/@TARTRadioTelescope).
 
